@@ -1,0 +1,4 @@
+godmailing
+==========
+
+mass mailing engine
