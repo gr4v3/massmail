@@ -1,0 +1,24 @@
+
+Xvnc Free Edition 4.1.2
+Copyright (C) 2002-2005 RealVNC Ltd.
+See http://www.realvnc.com for information on VNC.
+Underlying X server release 70101000, The X.Org Foundation
+
+
+Tue May 17 10:10:53 2011
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on port 5901
+ vncext:      Listening for HTTP connections on port 5801
+ vncext:      created VNC server for screen 0
+
+Tue May 17 10:11:24 2011
+ Connections: accepted: 85.241.108.145::62691
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Tue May 17 10:11:27 2011
+ VNCSConnST:  Server default pixel format depth 16 (16bpp) little-endian rgb565
+ VNCSConnST:  Client pixel format depth 16 (16bpp) little-endian rgb565
+XIO:  fatal IO error 104 (Connection reset by peer) on X server ":1.0"
+      after 2968 requests (2966 known processed) with 5 events remaining.
+FreeFontPath: FPE "unix/:7100" refcount is 2, should be 1; fixing.

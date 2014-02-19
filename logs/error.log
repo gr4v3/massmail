@@ -1,0 +1,54 @@
+[Wed Jan 18 23:11:12 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/
+[Wed Jan 18 23:11:32 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/
+[Wed Jan 18 23:11:37 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/index.php
+[Wed Jan 18 23:12:07 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/index.php
+[Wed Jan 18 23:15:27 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/index.php
+[Wed Jan 18 23:16:03 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/index.php
+[Wed Jan 18 23:16:14 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/, referer: http://www.mailserver.com/index.php
+[Wed Jan 18 23:16:22 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/index.php
+[Wed Jan 18 23:17:12 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/index.php
+[Wed Jan 18 23:17:16 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/Users/GraveUltimatium/Documents/webuser/
+[Wed Jan 18 23:34:34 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/public, referer: http://www.mailserver.com/index.php/auth/login.html
+[Wed Jan 18 23:34:34 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/public, referer: http://www.mailserver.com/index.php/auth/login.html
+[Wed Jan 18 23:34:34 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/public, referer: http://www.mailserver.com/index.php/auth/login.html
+[Wed Jan 18 23:47:11 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/public, referer: http://www.mailserver.com/index.php/auth/login.html
+[Wed Jan 18 23:47:11 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/public, referer: http://www.mailserver.com/index.php/auth/login.html
+[Wed Jan 18 23:47:11 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/public, referer: http://www.mailserver.com/index.php/auth/login.html
+[Thu Jan 19 00:05:45 2012] [error] [client 127.0.0.1] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\\Program Files\\EasyPHP-5.3.8.1\\phpmyadmin\\libraries\\sqlparser.lib.php on line 507, referer: http://127.0.0.1/home/mysql/tbl_import.php?db=mailserver&table=country&token=c0ac7a67abf860562222b030da52e35c
+[Thu Jan 19 01:03:49 2012] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use object of type stdClass as array in F:\\www\\mailserver\\system\\application\\controllers\\control.php on line 30
+[Fri Jan 20 00:46:57 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function import_emails_stack() on a non-object in F:\\www\\mailserver\\system\\application\\controllers\\import.php on line 354, referer: http://www.mailserver.com/index.php/import/emails_stack_csv.html
+[Fri Jan 20 01:49:10 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/mailserver
+[Sun Jan 22 18:41:01 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get_email_address_id() on a non-object in F:\\www\\mailserver\\system\\application\\libraries\\Bounce.php on line 329
+[Thu Jan 26 01:01:37 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/jpg
+[Sun Jan 29 16:23:01 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getloginforbounce() on a non-object in F:\\www\\mailserver\\system\\application\\libraries\\Bounce.php on line 26
+[Sun Jan 29 16:38:06 2012] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getloginforbounce() on a non-object in F:\\www\\mailserver\\system\\application\\libraries\\Bounce.php on line 26
+[Wed Feb 08 17:01:50 2012] [error] [client 127.0.0.1] client denied by server configuration: F:/www/mailserver/
+[Wed Feb 15 04:45:51 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Wed Feb 15 04:46:11 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Wed Feb 15 04:46:32 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Wed Feb 15 04:47:02 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Wed Feb 15 04:47:43 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Wed Feb 15 04:48:33 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Wed Feb 15 04:49:34 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Wed Feb 15 04:50:45 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Wed Feb 15 04:52:06 2012] [error] [client 127.0.0.1] File does not exist: F:/www/mailserver/announce
+[Tue Feb 21 19:45:12 2012] [error] [client 127.0.0.1] PHP Warning:  rename(F:/www/conf_files/httpd.conf,F:/www/conf_files/httpd_2012-02-21@1329853512.conf) [<a href='function.rename'>function.rename</a>]: The system cannot find the path specified. (code: 3) in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 32
+[Tue Feb 21 19:45:12 2012] [error] [client 127.0.0.1] PHP Warning:  fopen(F:/www/conf_files/httpd.conf) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 35
+[Tue Feb 21 19:45:12 2012] [error] [client 127.0.0.1] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 36
+[Tue Feb 21 19:45:12 2012] [error] [client 127.0.0.1] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 37
+[Tue Feb 21 19:45:12 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 1 in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 49
+[Tue Feb 21 19:45:56 2012] [error] [client 127.0.0.1] PHP Warning:  rename(F:/www/conf_files/httpd.conf,F:/www/conf_files/httpd_2012-02-21@1329853556.conf) [<a href='function.rename'>function.rename</a>]: The system cannot find the path specified. (code: 3) in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 32, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:45:56 2012] [error] [client 127.0.0.1] PHP Warning:  fopen(F:/www/conf_files/httpd.conf) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 35, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:45:56 2012] [error] [client 127.0.0.1] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 36, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:45:56 2012] [error] [client 127.0.0.1] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 37, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:45:56 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 1 in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 49, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: easyphp_conf_path in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 24, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: easyphp_conf_path in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 35, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: easyphp_conf_path in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 35, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Warning:  rename(/conf_files/httpd.conf,/conf_files/httpd_2012-02-21@1329853847.conf) [<a href='function.rename'>function.rename</a>]: The system cannot find the path specified. (code: 3) in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 35, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: easyphp_conf_path in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 38, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Warning:  fopen(/conf_files/httpd.conf) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 38, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 39, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 40, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:50:47 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 1 in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 52, referer: http://127.0.0.1/home/
+[Tue Feb 21 19:58:29 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in C:\\Program Files\\EasyPHP-5.3.8.1\\modules\\virtualhostsmanager10\\virtualhostsmanager_functions.php on line 13, referer: http://127.0.0.1/home/

@@ -1,0 +1,1 @@
+default._domainkey IN TXT "v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG9Em5OwfgKW9YDK/eGjb8ZDnOi2Gl0EINQ+Jguj2d5Jl4XADyLNsqNhOiaGmNXHPnhIZaMwI+XDu/De2JpCcInFBsCSmW+5LbqBexoH9KiXs9OiPjFEr0JXx57pVzviShRdNzRv2IwTIJWfzm5CgMQbVsR2vKGVt97jbD3ot5rQIDAQAB" ; ----- DKIM default for send37ali89.net

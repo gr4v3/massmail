@@ -1,0 +1,59 @@
+/* 
+    Document   : win
+    Created on : 28/Abr/2010, 14:02:46
+    Author     : grave
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+.dialog {
+	border:1px solid #cacaca;
+	
+	background-color:white;
+}
+.dialog div {
+	
+	
+}
+.dialog .title {
+	background-color:#f0f0f0;
+	padding:4px;
+}
+.dialog .title,.dialog .title div {
+	height:24px;
+}
+.dialog .close {
+	background-image:url(win/close.png);
+	width:24px;
+	cursor:pointer;
+}
+.dialog .control {
+	padding:4px;
+}
+.dialog .control,.dialog .control .yes,.dialog .control .no {
+	text-align:center !important;
+	/*height:24px;*/
+	
+}
+.dialog .control .yes {
+	background-image:url(win/yes.png);
+	width:24px;
+	background-position:center center;
+	margin:0 auto;
+	cursor:pointer;
+}
+.dialog .control .no {
+	background-image:url(win/no.png);
+	width:24px;
+	background-position:center center;
+	margin:0 auto;
+	cursor:pointer;
+}

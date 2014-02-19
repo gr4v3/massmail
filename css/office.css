@@ -1,0 +1,181 @@
+/* 
+    Document   : office
+    Created on : 3/Mai/2010, 15:23:44
+    Author     : grave
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+
+body {
+	background-color:#cacaca;
+	padding:0px;
+	margin:0px;
+}
+
+.dialog {
+	width:500px;
+	z-index:999;
+}
+
+.dialog .title {
+	font-size:18px;
+	text-align:center;
+	font-weight: bold;
+
+}
+.dialog .small {
+	font-size:9px;
+	text-align:right;
+}
+.dialog th {
+	text-align:left;
+}
+.dialog td {
+	vertical-align: top;
+	/*text-align:center;*/
+}
+.dialog td:first-child {
+	vertical-align: top;
+	/*text-align:left;
+	width:50%;*/
+	font-size:14px;
+}
+.dialog td  {
+	/*width:50%;
+	text-align:left;*/
+
+}
+.dialog td.label  {
+	width:50%;
+	text-align:right;
+
+}
+.dialog td:last-child {
+	vertical-align: top;
+	/*text-align:left;
+	width:50%;*/
+}
+.dialog .content {
+	
+}
+.dialog table {
+	margin-top:10px;
+	width:100%;
+
+}
+.dialog .sub {
+	padding:4px;
+	padding-left:0px;
+	width:100%;
+	background-color: #D7E2D8;
+	border:1px solid #808080;
+}
+
+
+.dialog input[type=text],.dialog select,.dialog textarea {
+	width:200px;
+}
+.dialog select {
+	height: 150px;
+}
+
+.dialog input[type=button],.dialog input.button {
+	width:138px;
+	height:38px;
+	cursor:pointer;
+}
+.dialog option {
+
+}
+
+.dialog  input[name=back] {
+	background-image: url(win/back.png);
+	background-repeat: no-repeat;
+	width:138px;
+	height:38px;
+	background-color: transparent;
+	border:0px;
+}
+.dialog  input[name=execute] {
+	background-image: url(win/forward.png);
+	background-repeat: no-repeat;
+	width:138px;
+	height:38px;
+	background-color: transparent;
+	border:0px;
+}
+.dialog  input[name=cancel] {
+	background-image: url(win/main.png);
+	background-repeat: no-repeat;
+	width:138px;
+	height:38px;
+	background-color: transparent;
+	border:0px;
+}
+.menu div {
+	padding:4px;
+        text-align: center;
+}
+
+.normal {
+	width:100%;
+	position:static !important;
+	border:0 !important;
+	background-color: transparent;
+}
+
+
+.normal .tab {
+	display:none;
+}
+.normal .active {
+	display:inline;
+}
+
+.white_box {
+	background-color: white;
+	border:1px solid black;
+}
+
+
+.dialog input[disabled=disabled],.dialog input.disabled {
+	background-color:transparent;
+	border:0px;
+	color:black;
+}
+.dialog .control {
+	padding-top:10px;
+	border-top:1px solid #F0F0F0;
+}
+
+
+
+.hidedialog {
+	visibility: hidden;
+	z-index:0;
+	display:none !important;
+}
+
+.dialog .logout {
+	float:right;
+	cursor:pointer;
+	background-image:url(logoff.png);
+	width:32px;
+	height:32px;
+}
+
+
+.dialog .new_server select {
+	height:auto !important;
+}
+

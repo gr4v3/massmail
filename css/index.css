@@ -1,0 +1,91 @@
+/* 
+    Document   : index
+    Created on : 21/Abr/2010, 17:27:01
+    Author     : grave
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+body {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+
+
+.module_right {
+	padding:20px;
+	margin:0 auto;
+	float:left;
+}
+.module_right .title {
+	text-transform: uppercase;
+}
+td.left,td.right {
+	/*width:33%;*/
+}
+td.right {
+	
+}
+.dialog {
+	float:left;
+}
+td {
+	font-size:12px;
+}
+.host_settings {
+	margin:5px 0px 5px 20px;
+}
+.host_settings td {
+	font-size:10px;
+}
+.host_settings td:last-child {
+	padding-left:4px;
+}
+.host_settings .title {
+	font-weight: bold;
+	border-bottom:1px solid black;
+}
+.host_settings .control {
+	text-align:left;
+}
+#hosts .section {
+	background-color:#fafafa;
+}
+.center {
+	text-align:center !important;
+}
+
+.verbose {
+	position:fixed;
+	padding:4px;
+	background-color:white;
+	border:1px solid black;
+	top:0px;
+	height:400px;
+	width:600px;
+	overflow:auto;
+}
+
+.verbose .row {
+
+	background-color:green;
+	border:1px solid black;
+	margin:2px;
+	padding:2px;
+
+}
+.verbose .row .row {
+
+	background-color:yellow;
+
+
+}

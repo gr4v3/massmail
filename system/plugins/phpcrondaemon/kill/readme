@@ -1,0 +1,1 @@
+to kill the daemon, just place a file here (as defined FS_KILL) with '1' as its only contents

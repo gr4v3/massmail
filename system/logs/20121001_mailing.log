@@ -1,0 +1,18 @@
+
+--------------------------
+[ 03:17:58 ] - automailing
+--------------------------
+
+[0] => 'mailing #20 selected'
+[1] => 'sending emails to all webmasters'
+[2] => 'client emails unavailable to send to mailing#20'
+[3] => 'mailing crawler ended in index a:1:{i:20;s:5:"14835";}'
+
+--------------------------
+[ 03:18:21 ] - automailing
+--------------------------
+
+[0] => 'mailing #20 selected'
+[1] => 'sending emails to all webmasters'
+[2] => 'client emails unavailable to send to mailing#20'
+[3] => 'mailing crawler ended in index a:1:{i:20;s:5:"14835";}'
